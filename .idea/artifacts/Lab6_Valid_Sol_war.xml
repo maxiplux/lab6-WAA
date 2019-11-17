@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Lab6_Valid_Sol:war">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Lab6_Valid_Sol_war</output-path>
+    <root id="archive" name="Lab6_Valid_Sol_war.war">
+      <element id="artifact" artifact-name="Lab6_Valid_Sol:war exploded" />
+    </root>
+  </artifact>
+</component>
